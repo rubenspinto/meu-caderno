@@ -9,7 +9,7 @@ Obter material para estudo de **arquitetura moderna de sistemas**, aproveitando 
 ## 📚 Foco de Curadoria
 
 - **Livros** 
-- **title first**
+- **Title first**
 - **Design de Software**
 - **Engenharia de Software**
 
